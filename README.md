@@ -312,12 +312,7 @@ Through this project, the following concepts were learned:
 - Schematic Design
 - PCB Routing Techniques
 - Industrial Safety Systems
-- Hardware Design
-- Comparator Circuit Design
-- 3D PCB Visualization
-- Practical Electronics Implementation
 
----
 
 ---
 
