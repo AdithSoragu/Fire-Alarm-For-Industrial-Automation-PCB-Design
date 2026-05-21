@@ -291,16 +291,7 @@ This project can be used in:
 - Safety Monitoring Systems
 - Embedded Safety Devices
 
----
 
-# ✅ Advantages
-
-- Improves industrial safety
-- Fast fire detection
-- Compact PCB implementation
-- Low power consumption
-- Easy maintenance
-- Reliable warning system
 
 ---
 
