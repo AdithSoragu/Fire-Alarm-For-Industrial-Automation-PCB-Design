@@ -302,9 +302,6 @@ This project can be used in:
 - Easy maintenance
 - Reliable warning system
 
-
-
-
 ---
 
 # 🎓 Academic Information
