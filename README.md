@@ -198,10 +198,7 @@ The schematic includes:
 
 # 📌 2. PCB Layout Design
 
-After schematic verification:
-- Components were placed
-- Copper traces were routed
-- Electrical connections were verified
+
 
 
 ---
