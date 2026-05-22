@@ -230,12 +230,7 @@ The schematic diagram shows:
 - Relay and buzzer control
 - Power supply connections
 
----
 
-## 🔹 PCB Layout
-
-The PCB layout contains:
-- Copper routing
 
 
 ---
