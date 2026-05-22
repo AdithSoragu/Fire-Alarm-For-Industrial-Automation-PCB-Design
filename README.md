@@ -181,11 +181,6 @@ Once activated:
 - LEDs glow
 - Warning signal is generated
 
----
-
-# 🧩 PCB Design Process
-
-The PCB was developed through multiple stages.
 
 ---
 
