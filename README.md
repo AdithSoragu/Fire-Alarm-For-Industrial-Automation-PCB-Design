@@ -212,11 +212,6 @@ The PCB layout ensures:
 
 # 📌 3. 3D PCB Visualization
 
-The PCB was visualized in 3D mode to analyze:
-- Component placement
-- PCB structure
-- Physical appearance
-- Hardware alignment
 
 
 ---
