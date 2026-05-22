@@ -218,12 +218,6 @@ The PCB was visualized in 3D mode to analyze:
 - Physical appearance
 - Hardware alignment
 
----
-
-# 📷 Project Images
-
-## 🔹 Circuit Diagram
-
 
 ---
 
