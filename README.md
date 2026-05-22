@@ -88,19 +88,6 @@ The project contains:
 - PCB layout design
 - 3D PCB visualization
 
----
-
-# 📂 Project Structure
-
-```text
-Fire_Alarm_Industrial_Automation/
-│
-├── schematic_diagram.png      # Circuit Diagram
-├── pcb_layout.png             # PCB Routing Layout
-├── pcb_3d_view.png            # 3D PCB Visualization
-├── designspark_project/       # PCB Design Files
-└── README.md                  # Documentation
-```
 
 ---
 
