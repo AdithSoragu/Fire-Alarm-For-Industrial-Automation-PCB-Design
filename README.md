@@ -203,12 +203,6 @@ After schematic verification:
 - Copper traces were routed
 - Electrical connections were verified
 
-The PCB layout ensures:
-- Compact design
-- Proper routing
-- Reliable connections
-
----
 
 ---
 
