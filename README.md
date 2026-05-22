@@ -291,8 +291,6 @@ This project can be used in:
 - Safety Monitoring Systems
 - Embedded Safety Devices
 
-
-
 ---
 
 # 🎓 Academic Information
